@@ -2,7 +2,7 @@
 Created by Manu Easton
 
 <h2>About</h2>
-Final project for Introduction to Game Mechanics class
+Final project for Introduction to Game Mechanics class, Year 1, Semester 1
 
 Created in Unreal 4, updated to Unreal 5.1
 
